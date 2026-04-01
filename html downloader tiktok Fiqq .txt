@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Download Video TikTok Tanpa Watermark HD Percum - Fiqqzr7 Downloader</title>
+  <meta name="description" content="TikTok Downloader HD percuma untuk download video TikTok tanpa watermark dengan kualiti terbaik. Cepat, mudah, dan tanpa aplikasi tambahan.">
+  <meta name="keywords" content="tiktok downloader, download video tiktok tanpa watermark, tiktok video downloader, tiktok mp4 downloader, save tiktok video hd, snaptik alternative">
+  <meta name="author" content="Fiqqzr7 Downloader">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  <meta name="googlebot" content="index, follow">
+
+  <link rel="canonical" href="https://www.lyntharx-downloader.my.id/">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.lyntharx-downloader.my.id/">
+  <meta property="og:title" content="Download Video TikTok Tanpa Watermark HD Percuma - Fiqqzr7 Downloader">
+  <meta property="og:description" content="Download video TikTok tanpa watermark dengan kualiti HD. Percuma, cepat, mudah, dan tanpa aplikasi tambahan.">
+  <meta property="og:image" content="https://www.lyntharx-downloader.my.id/og-image.jpg">
+  <meta property="og:site_name" content="Fiqqzr7 Downloader">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://www.lyntharx-downloader.my.id/">
+  <meta name="twitter:title" content="Download Video TikTok Tanpa Watermark HD Gratis - Lyntharx Downloader">
+  <meta name="twitter:description" content="Download video TikTok tanpa watermark dengan kualitas HD secara gratis dan cepat.">
+  <meta name="twitter:image" content="https://www.lyntharx-downloader.my.id/og-image.jpg">
+
+  <meta name="theme-color" content="#0c0c14">
+
+  <!-- Schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Fiqqzr7 Downloader",
+    "url": "https://www.lyntharx-downloader.my.id/",
+    "description": "TikTok Downloader HD percuma untuk download video TikTok tanpa watermark dengan kualiti terbaik.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://www.lyntharx-downloader.my.id/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Fiqqzr7 Downloader",
+    "applicationCategory": "UtilityApplication",
+    "operatingSystem": "Web",
+    "url": "https://www.lyntharx-downloader.my.id/",
+    "description": "Download video TikTok tanpa watermark dengan kualiti HD secara percuma, cepat, dan mudah.",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    }
+  }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@200;300;400;500;600&family=Russo+One&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+
+  <style>
+    *{margin:0;padding:0;box-sizing:border-box;font-family:'Kanit',sans-serif}
+    body{background:#0c0c14;color:#fff;min-height:100vh;overflow-x:hidden;line-height:1.6}
+
+    #splash{
+      position:fixed;top:0;left:0;width:100%;height:100%;
+      display:flex;align-items:center;justify-content:center;
+      background:#0c0c14;z-index:9999;transition:0.5s;
+    }
+
+    .contentWrapper{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center}
+    .bg{position:absolute;width:200%;height:200%;background:radial-gradient(circle,#9027ff,#330066);filter:blur(120px);animation:bgMove 6s infinite alternate}
+    @keyframes bgMove{from{transform:translate(-20%,-10%);}to{transform:translate(10%,10%);}}
+
+    .barWrapper{width:220px;height:6px;background:#ffffff30;border-radius:10px;margin-top:25px;overflow:hidden;z-index:3}
+    .bar{width:0%;height:100%;background:#fff;border-radius:10px;animation:loadingBar 2s forwards}
+    @keyframes loadingBar{to{width:100%;}}
+
+    .mainContent{z-index:3;text-align:center;margin-top:20px}
+    .maskOut{font-size:50px;font-family:'Russo One',sans-serif;display:flex;overflow:hidden;line-height:1}
+    .mask{overflow:hidden;height:55px}
+    .mask div{transform:translateY(100%);animation:slideUp 1.2s forwards}
+    @keyframes slideUp{to{transform:translateY(0);}}
+    .thin{font-weight:200;font-family:'Kanit'}
+    .haveFun .mask:nth-child(1) div{animation-delay:1.3s}
+    .haveFun .mask:nth-child(2) div{animation-delay:1.5s}
+
+    #mainApp{margin-top:40px;opacity:0;pointer-events:none;transition:0.5s;padding:30px 16px 60px}
+    #mainApp.show{opacity:1;pointer-events:auto}
+
+    .container{
+      background:rgba(255,255,255,0.05);
+      backdrop-filter:blur(20px);
+      border-radius:25px;
+      padding:35px;
+      width:100%;max-width:460px;margin:auto;
+      border:1px solid rgba(255,255,255,0.08);
+      box-shadow:0 10px 40px rgba(0,0,0,0.25);
+    }
+
+    .header{text-align:center;margin-bottom:25px}
+    .header h1{
+      font-size:1.9rem;font-weight:600;
+      background:linear-gradient(45deg,#b77bff,#e86cff,#ff8bd1);
+      -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+    }
+
+    .subtext{
+      text-align:center;
+      color:#d7d7d7;
+      font-size:0.95rem;
+      margin-top:8px;
+    }
+
+    .input-group{margin-bottom:22px}
+    .url-input{
+      width:100%;padding:15px 20px;
+      border:none;border-radius:14px;
+      background:rgba(255,255,255,0.12);
+      color:white;font-size:1rem;
+      transition:0.25s;border:1px solid rgba(255,255,255,0.15);
+    }
+    .url-input:focus{outline:none;background:rgba(255,255,255,0.18);border-color:#c78aff}
+
+    .download-btn{
+      width:100%;padding:15px;
+      background:linear-gradient(135deg,#b77bff,#ff77c7);
+      border:none;border-radius:14px;
+      color:white;font-size:1.05rem;font-weight:600;
+      cursor:pointer;display:flex;align-items:center;justify-content:center;gap:10px;
+      transition:0.3s;box-shadow:0 6px 18px rgba(200,120,255,0.35);
+    }
+    .download-btn:hover{transform:translateY(-2px);box-shadow:0 10px 25px rgba(200,120,255,0.45)}
+    .download-btn:disabled{opacity:0.7;cursor:not-allowed}
+
+    .loading{text-align:center;margin:18px 0;display:none}
+    .loading-spinner{
+      width:36px;height:36px;
+      border:3px solid rgba(255,255,255,0.25);
+      border-left:3px solid #b77bff;
+      border-radius:50%;animation:spin 1s linear infinite;margin:auto;
+    }
+    @keyframes spin{to{transform:rotate(360deg)}}
+
+    .option-btn{
+      padding:12px 20px;border-radius:12px;text-align:center;
+      text-decoration:none;color:white;font-weight:500;font-size:0.95rem;
+      transition:0.3s;border:1px solid rgba(255,255,255,0.15);
+      display:block;
+    }
+    .option-btn:hover{transform:translateY(-2px);background:rgba(255,255,255,0.18)}
+    .hd-btn{background:rgba(150,110,255,0.35)}
+    .sd-btn{background:rgba(180,110,255,0.35)}
+    .mp3-btn{background:rgba(255,110,200,0.35)}
+
+    .seo-section{
+      max-width:860px;
+      margin:40px auto 0;
+      padding:0 10px;
+    }
+
+    .seo-card{
+      background:rgba(255,255,255,0.04);
+      border:1px solid rgba(255,255,255,0.08);
+      border-radius:22px;
+      padding:24px;
+      margin-bottom:20px;
+    }
+
+    .seo-card h2{
+      font-size:1.4rem;
+      margin-bottom:10px;
+      color:#fff;
+    }
+
+    .seo-card h3{
+      font-size:1.05rem;
+      margin:14px 0 6px;
+      color:#f0d8ff;
+    }
+
+    .seo-card p, .seo-card li{
+      color:#d6d6d6;
+      font-size:0.97rem;
+    }
+
+    .seo-card ul, .seo-card ol{
+      padding-left:20px;
+    }
+
+    footer{
+      text-align:center;
+      margin-top:28px;
+      color:#bbb;
+      font-size:0.9rem;
+    }
+
+    footer a{
+      color:#dba7ff;
+      text-decoration:none;
+      margin:0 6px;
+    }
+
+    #popup, #startPopup{
+      display:none;
+      position:fixed;
+      top:0;left:0;width:100%;height:100%;
+      background:#0c0c14;
+      z-index:99999;
+      align-items:center;
+      justify-content:center;
+      padding:20px;
+    }
+
+    .popup-box{
+      background:#111122;
+      border-radius:18px;
+      padding:25px;
+      width:90%;
+      max-width:380px;
+      text-align:center;
+      border:1px solid rgba(255,255,255,0.15);
+    }
+
+    .video-thumb{
+      width:100%;
+      border-radius:12px;
+      margin-bottom:15px;
+    }
+
+    .popup-grid{
+      display:grid;
+      gap:12px;
+    }
+
+    .close-btn{
+      margin-top:18px;
+      padding:10px 18px;
+      border:none;
+      border-radius:10px;
+      background:#ff4f9a;
+      color:white;
+      cursor:pointer;
+      font-weight:600;
+      width:100%;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- SPLASH SCREEN -->
+  <div id="splash">
+    <div class="contentWrapper">
+      <div class="bg"></div>
+      <div class="mainContent">
+        <div class="maskOut getCreative">
+          <div class="mask"><div><span class="thin">WEL</span></div></div>
+          <div class="mask"><div>COMETO</div></div>
+        </div>
+        <div class="maskOut haveFun">
+          <div class="mask"><div><span class="thin">Fiqqzr7</span></div></div>
+          <div class="mask"><div>Dev</div></div>
+        </div>
+      </div>
+      <div class="barWrapper"><div class="bar"></div></div>
+    </div>
+  </div>
+
+  <!-- START POPUP -->
+  <div id="startPopup">
+    <div class="popup-box">
+      <h2 style="font-size:1.35rem;margin-bottom:10px;color:#fff;font-weight:600;">TikTok Downloader</h2>
+      <p style="color:#ccc;font-size:0.95rem;margin-bottom:22px;">
+        100% Percuma dan tanpa iklan. Support developer dengan Join discord Fiqqzr7.
+      </p>
+      <a href="https://discord.gg/gygcHzVwFy" class="option-btn hd-btn" style="margin-bottom:15px;">
+        Follow Discorx
+      </a>
+      <button onclick="closeStartPopup()" class="close-btn">Sambung</button>
+    </div>
+  </div>
+
+  <!-- RESULT POPUP -->
+  <div id="popup">
+    <div class="popup-box">
+      <img id="thumb" class="video-thumb" alt="Thumbnail video TikTok">
+      <p id="title" style="margin-bottom:15px;font-size:1rem;color:#fff"></p>
+      <div class="popup-grid">
+        <a id="hd" class="option-btn hd-btn" target="_blank" rel="noopener noreferrer">Download HD</a>
+        <a id="sd" class="option-btn sd-btn" target="_blank" rel="noopener noreferrer">Download SD</a>
+        <a id="mp3" class="option-btn mp3-btn" target="_blank" rel="noopener noreferrer">Download MP3</a>
+      </div>
+      <button onclick="document.getElementById('popup').style.display='none'" class="close-btn">Tutup</button>
+    </div>
+  </div>
+
+  <!-- MAIN APP -->
+  <div id="mainApp">
+    <div class="container">
+      <div class="header">
+        <h1>Download Video TikTok Tanpa Watermark HD Percuma/h1>
+        <p class="subtext">Tempel link TikTok dan unduh video tanpa watermark dengan cepat.</p>
+      </div>
+
+      <div class="input-group">
+        <label for="url" style="margin-left:6px;display:block;">URL TikTok:</label>
+        <input type="text" id="url" class="url-input" placeholder="Tempel URL TikTok di sini">
+      </div>
+
+      <button id="btn" class="download-btn" onclick="dl()">
+        <i class="fas fa-download"></i> Download Sekarang
+      </button>
+
+      <div id="loading" class="loading">
+        <div class="loading-spinner"></div>
+        <p>Mengambil data video...</p>
+      </div>
+    </div>
+
+    <!-- SEO CONTENT -->
+    <section class="seo-section">
+      <div class="seo-card">
+        <h2>TikTok Downloader HD Percuma Tanpa Watermark</h2>
+        <p>
+          Fiqqzr7 Downloader adalah TikTok downloader online percuma yang membantu Anda download video TikTok tanpa watermark
+          dengan kualiti HD. Tidak perlu install aplikasi tambahan, cukup tempel link video TikTok lalu unduh dalam beberapa saat.
+        </p>
+      </div>
+
+      <div class="seo-card">
+        <h2>Cara Download Video TikTok Tanpa Watermark</h2>
+        <ol>
+          <li>Copy link video TikTok yang ingin diunduh.</li>
+          <li>Tempel link ke kolom input di atas.</li>
+          <li>Klik tombol <strong>Download Sekarang</strong>.</li>
+          <li>Pilih format yang tersedia: HD, SD, atau MP3.</li>
+        </ol>
+      </div>
+
+      <div class="seo-card">
+        <h2>Kenapa Pilih Fiqqzr7 Downloader?</h2>
+        <ul>
+          <li>Percuma Tanpa Bayaran</li>
+          <li>Download video TikTok tanpa watermark</li>
+          <li>Kualiti HD dan SD</li>
+          <li>Bisa convert ke MP3</li>
+          <li>Support Android, iPhone, dan PC</li>
+          <li>Tidak perlu aplikasi tambahan</li>
+        </ul>
+      </div>
+
+      <div class="seo-card">
+        <h2>FAQ</h2>
+
+        <h3>Apakah Lyntharx Downloader gratis?</h3>
+        <p>Ya, layanan ini 100% percuma untuk download video TikTok tanpa watermark.</p>
+
+        <h3>Apakah bisa download video TikTok HD?</h3>
+        <p>Ya, Anda bisa memilih kualitas HD jika tersedia dari hasil API.</p>
+
+        <h3>Apakah perlu install aplikasi?</h3>
+        <p>Tidak, cukup gunakan browser dan tempel link video TikTok.</p>
+
+        <h3>Apakah bisa download audio MP3 dari TikTok?</h3>
+        <p>Ya, tersedia opsi unduh audio MP3 jika data dari API mendukung.</p>
+      </div>
+    </section>
+
+    <a href="about.html" style="display:inline-block;margin-top:15px;padding:12px 18px;background:linear-gradient(90deg,#00bcd4,#0099ff);color:#fff;text-decoration:none;border-radius:12px;font-weight:bold;box-shadow:0 0 15px rgba(0,153,255,.25);transition:0.3s ease;">
+      About Me
+    </a>
+
+    <footer>
+      <div>© Lyntharx - BackendDev</div>
+      <div style="margin-top:8px;">
+        <a href="/privacy-policy.html">Privacy Policy</a> |
+        <a href="/terms-of-service.html">Terms of Service</a>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    // Splash -> Start Popup
+    setTimeout(() => {
+      const splash = document.getElementById('splash');
+      const startPopup = document.getElementById('startPopup');
+
+      splash.style.opacity = "0";
+
+      setTimeout(() => {
+        splash.style.display = "none";
+        startPopup.style.display = "flex";
+      }, 600);
+    }, 2500);
+
+    function closeStartPopup() {
+      document.getElementById('startPopup').style.display = 'none';
+      document.getElementById('mainApp').classList.add('show');
+    }
+
+    async function dl() {
+      const url = document.getElementById('url').value.trim();
+      if (!url) return alert('Masukkan link TikTok!');
+
+      const btn = document.getElementById('btn');
+      const loading = document.getElementById('loading');
+
+      btn.disabled = true;
+      loading.style.display = 'block';
+
+      try {
+        const api = `https://tikwm.com/api/?url=${encodeURIComponent(url)}`;
+        const res = await fetch(api);
+
+        if (!res.ok) throw new Error('Gagal terhubung ke server');
+
+        const json = await res.json();
+
+        if (!json.data) throw new Error('Gagal mengambil data');
+
+        const video_hd = json.data.play;
+        const video_sd = json.data.play;
+        const mp3 = json.data.music;
+        const thumbnail = json.data.cover;
+        const title = json.data.title;
+
+        // Tampilkan data
+        document.getElementById('thumb').src = thumbnail || '';
+        document.getElementById('title').textContent = title || 'Video TikTok';
+
+        // Tombol download
+        const hdBtn = document.getElementById('hd');
+        const sdBtn = document.getElementById('sd');
+        const mp3Btn = document.getElementById('mp3');
+
+        hdBtn.href = video_hd || '#';
+        sdBtn.href = video_sd || '#';
+        mp3Btn.href = mp3 || '#';
+
+        hdBtn.target = "_blank";
+        sdBtn.target = "_blank";
+        mp3Btn.target = "_blank";
+
+        hdBtn.style.pointerEvents = video_hd ? 'auto' : 'none';
+        sdBtn.style.pointerEvents = video_sd ? 'auto' : 'none';
+        mp3Btn.style.pointerEvents = mp3 ? 'auto' : 'none';
+
+        hdBtn.style.opacity = video_hd ? '1' : '0.5';
+        sdBtn.style.opacity = video_sd ? '1' : '0.5';
+        mp3Btn.style.opacity = mp3 ? '1' : '0.5';
+
+        // Tampilkan popup
+        document.getElementById('popup').style.display = 'flex';
+
+      } catch (e) {
+        alert(e.message || 'Server error!');
+      } finally {
+        btn.disabled = false;
+        loading.style.display = 'none';
+      }
+    }
+  </script>
+</body>
+</html>
